@@ -1,0 +1,28 @@
+const { DataTypes } = require('sequelize');
+const db = require('../../data/DBase');
+const User = require("./User");
+const File = require("./File");
+
+const ProfileFile = db.define('ProfileFiles', {
+    id: {
+        type: DataTypes.UUID,
+        defaultValue: DataTypes.UUIDV4,
+        primaryKey: true,
+    },
+    userId: {
+        type: DataTypes.UUID,
+        unique: true,
+        allowNull: false,
+    },
+    fileId: {
+        type: DataTypes.UUID,
+        allowNull: false,
+    }
+}, {
+    timestamps: false,
+});
+
+ProfileFile.belongsTo(User, {foreignKey: 'userId'});
+ProfileFile.belongsTo(File, {foreignKey: 'fileId'});
+
+module.exports = ProfileFile;
