@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monitor">Monitor</string>
+    <string name="ecological_monitoring_in_real_time">Екологічний моніторинг\nу реальному часі!</string>
+    <string name="start">Почати</string>
+</resources>

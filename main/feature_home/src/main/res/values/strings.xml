@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Home">Головна</string>
+    <string name="error_fetching_location">Помилка отримання локації</string>
+    <string name="total_mark">Загальна\nоцінка</string>
+    <string name="temperature">Температура, °C</string>
+    <string name="humidity">Вологість, %%</string>
+    <string name="wind">Вітер, м/с</string>
+    <string name="recommendations">Рекомендації:</string>
+</resources>

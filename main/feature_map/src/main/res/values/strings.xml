@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_allow_fine_location_please">Дозвольте отримувати точну локацію будь ласка.</string>
+    <string name="low">Низький</string>
+    <string name="moderate">Середній</string>
+    <string name="high">Високий</string>
+    <string name="pollution_level">Рівень забруднення: %1$s</string>
+    <string name="no_cities_found">Населених пунктів не знайдено</string>
+    <string name="coordinates_4f_4f">Координати: %.4f, %.4f</string>
+    <string name="air_temperature">Температура повітря: %1$s °C</string>
+    <string name="level_of_humidity">Рівень вологості: %1$d %%</string>
+    <string name="wind_speed">Швидкість вітру: %1$s м/с</string>
+    <string name="location">Локація: %1$s</string>
+</resources>

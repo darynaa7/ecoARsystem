@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="temperature">Температура</string>
+    <string name="humidity">Вологість</string>
+    <string name="pressure">Тиск</string>
+    <string name="wind_speed">Швидкість вітру</string>
+    <string name="wind_degree">Кут вітру</string>
+    <string name="aqi">AQI - Індекс якості повітря</string>
+    <string name="pm2_5">PM2.5 - Дрібні частинки пилу</string>
+    <string name="pm10">PM10 - Частинки пилу</string>
+    <string name="no2">NO₂ - Діоксид азоту</string>
+    <string name="ozone">O₃ - Озон</string>
+    <string name="co">CO - Чадний газ</string>
+    <string name="temperature_desc">Температура навколишнього повітря, вимірюється у градусах Цельсія.</string>
+    <string name="humidity_desc">Відносна вологість повітря у відсотках.</string>
+    <string name="pressure_desc">Атмосферний тиск, який характеризує силу тиску повітря на поверхню Землі.</string>
+    <string name="wind_speed_desc">Швидкість руху повітряних потоків.</string>
+    <string name="wind_degree_desc">Напрямок вітру у градусах.</string>
+    <string name="aqi_desc">Узагальнений показник рівня забруднення атмосфери.</string>
+    <string name="pm2_5_desc">Концентрація дрібнодисперсних частинок у повітрі.</string>
+    <string name="pm10_desc">Концентрація пилових частинок у повітрі.</string>
+    <string name="no2_desc">Рівень діоксиду азоту у повітрі.</string>
+    <string name="ozone_desc">Рівень озону в приземному шарі атмосфери.</string>
+    <string name="co_desc">Рівень чадного газу у повітрі.</string>
+    <string name="error_fetching_location">Помилка отримання локації</string>
+    <string name="ar_review">AR Огляд</string>
+    <string name="information">Інформація</string>
+    <string name="reference">Довідка</string>
+    <string name="reference_desc_1">Цей режим відображає показники якості повітря прямо у просторі через камеру.\nКольорові маркери відображають рівень забруднення:</string>
+    <string name="reference_desc_2">Щоб змінити показник, відкрийте шари.</string>
+</resources>

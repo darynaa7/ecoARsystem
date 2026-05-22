@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile">Профіль</string>
+    <string name="my_reports">Мої звіти</string>
+    <string name="settings">Налаштування</string>
+    <string name="camera">Камера</string>
+    <string name="geolocation">Геолокація</string>
+    <string name="Notifications">Сповіщення</string>
+    <string name="please_allow_permission_in_settings">Будь ласка дозвольте %1$s у налаштуваннях</string>
+    <string name="permissions">Дозволи</string>
+    <string name="reports">Звіти</string>
+    <string name="export_to_pdf">Експорт в PDF</string>
+    <string name="export_to_csv">Експорт в CSV</string>
+    <string name="name">Ім\'я</string>
+    <string name="electronic_mail">Електронна пошта</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторіть пароль</string>
+    <string name="profile_editing">Редагування</string>
+    <string name="permission_already_granted">Дозвіл уже надано</string>
+    <string name="send_report_via">Відправити звіт через...</string>
+</resources>

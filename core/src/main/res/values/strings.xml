@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">EcoAR</string>
+    <string name="cancel">Скасувати</string>
+    <string name="user_is_not_authenticated">Користувач не автентифікований</string>
+    <string name="email_cannot_be_empty">Ел. пошта не може бути порожньою</string>
+    <string name="your_email_is_not_valid">Ваша ел. пошта не є валідною</string>
+    <string name="wrong_password_description">Пароль має бути довжиною 8 символів включаючи 1 велику букву та 1 число</string>
+    <string name="password_cannot_be_empty">Пароль не може бути порожнім</string>
+    <string name="passwords_do_not_match">Паролі не збігаються</string>
+    <string name="search">Пошук</string>
+    <string name="select_source">Виберіть джерело:</string>
+    <string name="camera_permission_not_granted">Дозвіл на камеру не наданий</string>
+    <string name="name_cannot_be_empty">Ім\'я не може бути порожнім</string>
+    <string name="aq_clean">Чисте повітря</string>
+    <string name="aq_medium">Середній рівень</string>
+    <string name="aq_bad">Погіршена якість</string>
+    <string name="aq_polluted">Сильне забруднення</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Вхід</string>
+    <string name="email">Ел. пошта</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Увійти</string>
+    <string name="dont_have_an_account">Heмає акаунту?</string>
+    <string name="registration">Реєстрація</string>
+    <string name="approve_password">Підтвердити пароль</string>
+    <string name="name">Ім\'я</string>
+    <string name="create_profile">Створити профіль</string>
+</resources>

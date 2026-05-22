@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="statistics">Статистика</string>
+    <string name="temperature">Температура</string>
+    <string name="days">Дні</string>
+    <string name="humidity">Вологість</string>
+    <string name="pressure">Тиск</string>
+    <string name="wind_speed">Швидкість вітру</string>
+    <string name="wind_direction">Напрямок вітру</string>
+    <string name="air_quality_index">Індекс повітря</string>
+    <string name="small_dust">Дрібний пил</string>
+    <string name="dust">Пил</string>
+    <string name="nitrogen">Азот</string>
+    <string name="ozone">Озон</string>
+    <string name="co">Чадний газ</string>
+    <string name="for_last_week">За останній тиждень</string>
+    <string name="for_last_month">За останній місяць</string>
+    <string name="for_last_year">За останній рік</string>
+    <string name="data_is_absent">Дані відсутні</string>
+    <string name="months">Місяці</string>
+</resources>
